@@ -19,6 +19,48 @@ In order to install the adaptor you will need to remove the motherboard from the
 
 ***
 
+86-pin connectors I sourced from here:<br />
+https://www.aliexpress.com/item/33029711948.html
+
+***
+
+<a href="images/A500_86pin_internal_adapter_pic3.jpg">
+<img src="images/A500_86pin_internal_adapter_pic3.jpg" width="256" height="192">
+</a>
+<a href="images/A500_86pin_internal_adapter_pic4.jpg">
+<img src="images/A500_86pin_internal_adapter_pic4.jpg" width="256" height="192">
+</a>
+
+***
+
+While installing you might want to put a solder blob or put a 0 Ohm resistor on JP6 (Rev.6A and 8A mobo's) to connect through the 7 MHz clock. I put a 0 Ohm resistor in picture below, and then put back the protective metal plate.
+
+***
+
+<a href="images/A500_86pin_internal_adapter_pic5.jpg">
+<img src="images/A500_86pin_internal_adapter_pic5.jpg" width="256" height="192">
+</a>
+<a href="images/A500_86pin_internal_adapter_pic6.jpg">
+<img src="images/A500_86pin_internal_adapter_pic6.jpg" width="256" height="192">
+</a>
+
+***
+
+The adapter clears the keyboard nicely, but not if the inserted card is too bulky towards the keyboard underside. The CPU fitted in the OpenAmiga2000CoproAdapter on picture below touches the keyboard underside, but this was only for temporary testing the edge adapter anyway.
+
+***
+
+<a href="images/A500_86pin_internal_adapter_pic7.jpg">
+<img src="images/A500_86pin_internal_adapter_pic7.jpg" width="256" height="192">
+</a>
+<a href="images/A500_86pin_internal_adapter_pic8.jpg">
+<img src="images/A500_86pin_internal_adapter_pic8.jpg" width="256" height="192">
+</a>
+<a href="images/A500_86pin_internal_adapter_pic9.jpg">
+<img src="images/A500_86pin_internal_adapter_pic9.jpg" width="256" height="192">
+</a>
+
+***
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
