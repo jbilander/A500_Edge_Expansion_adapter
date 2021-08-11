@@ -33,7 +33,7 @@ https://www.aliexpress.com/item/33029711948.html
 
 ***
 
-While installing you might want to put a solder blob or put a 0 Ohm resistor on JP6 (Rev.6A and 8A mobo's) to connect through the 7 MHz clock. I put a 0 Ohm resistor in picture below, and then put back the protective metal plate.
+While installing you might want to put a solder blob or put a 0 Ohm resistor on JP6 (Rev.6A mobo's) to connect through the 7 MHz clock. On Rev. 8A (A500+) it is already connected with a track on the PCB. I put a 0 Ohm resistor in picture below, and then put back the protective metal plate.
 
 ***
 
